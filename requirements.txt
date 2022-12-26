@@ -1,0 +1,6 @@
+git+https://github.com/Rapptz/discord.py@73f953eac53f9a8741b1968075ad847b54c02bbb
+discord-timers
+bs4
+psutil
+lxml
+pymongo[srv]==3.12.0
